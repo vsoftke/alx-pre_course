@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo up to date
+=======
+echo command
+>>>>>>> update_script
